@@ -1,6 +1,12 @@
 
 # Logan Wang
-logan.shozo.wang@gmail.com <br> +1 425-974-5024 <br> [loganwang.me](http://loganwang.me) <br> [github.com/logansw](https://github.com/logansw) <br> [linkedin.com/in/loganshozowang](https://www.linkedin.com/in/loganshozowang/) <br> Greater Seattle Area
+logan.shozo.wang@gmail.com
+    : +1 425-974-5024
+    : [loganwang.me](http://loganwang.me)
+
+[github.com/logansw](https://github.com/logansw)
+    : [linkedin.com/in/loganshozowang](https://www.linkedin.com/in/loganshozowang/)
+    : Greater Seattle Area
 
 ## Executive Summary
 
