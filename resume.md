@@ -1,7 +1,7 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
 <span style="float:right;padding:6px"> 
-  logan.shozo.wang@gmail.com <br> mobile: +1 425-974-5024
+  <span class="iconify" data-icon="charm:person"></span>logan.shozo.wang@gmail.com <br> mobile: +1 425-974-5024
 </span>
 
 # Logan Wang
