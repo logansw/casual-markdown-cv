@@ -1,10 +1,10 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  logan.shozo.wang@gmail.com <br> mobile: +1 425-974-5024
 </span>
 
-# Casualwriter  
+# Logan Wang
 
 ## Executive Summary
 
@@ -13,21 +13,17 @@
 * Hand-on experience in oracle database
 * Proficient in JavaScript, Java, Powerbuilder
 
-## Working Experience
+## Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Game Developer / Founder (Whaleshark Noises, Jan 2023 - Present) 
 
 * Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
 * Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### Web Developer + Designer (Arc Security, Oct 2021 - Oct 2023) 
 
 * Led team of 5 for application development
 * Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
-
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
-
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
 
 ## Projects: 
 
